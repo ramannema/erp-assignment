@@ -2,6 +2,21 @@
 
 Enterprise Resource Planning Tool using dummy product and order data
 
+## Dashboard
+
+![dashboard]([https://ramannema.github.io/erp-assignment/](https://github.com/ramannema/erp-assignment/blob/master/src/assets/dashboard.png))
+
+## Manage Product
+
+![manage product](https://github.com/ramannema/erp-assignment/blob/master/src/assets/products.png)
+
+## Manage Orders
+
+![manage orders](https://github.com/ramannema/erp-assignment/blob/master/src/assets/orders.png)
+
+## Add Product
+![add product](https://github.com/ramannema/erp-assignment/blob/master/src/assets/add-product.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
