@@ -4,7 +4,7 @@ Enterprise Resource Planning Tool using dummy product and order data
 
 ## Dashboard
 
-![dashboard]([https://ramannema.github.io/erp-assignment/](https://github.com/ramannema/erp-assignment/blob/master/src/assets/dashboard.png))
+![dashboard](https://github.com/ramannema/erp-assignment/blob/master/src/assets/dashboard.png)
 
 ## Manage Product
 
