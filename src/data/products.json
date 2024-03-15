@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung 65-Inch 4K Ultra HD Smart TV",
+    "image": "https://m.media-amazon.com/images/I/81xZqZgUe1L._SX679_.jpg",
+    "category": "Electronics",
+    "price": 899.99,
+    "quantity": 100
+  },
+  {
+    "id": 2,
+    "name": "Levi's Men's 511 Slim Fit Jeans",
+    "image": "https://levi.in/cdn/shop/files/182981335_02_Front_cdc95b90-103a-401e-b450-4485ba1d0362.jpg",
+    "category": "Clothing",
+    "price": 49.99,
+    "quantity": 50
+  },
+  {
+    "id": 3,
+    "name": "Keurig K-Cafe Coffee Maker",
+    "image": "https://m.media-amazon.com/images/I/61vocUIYrRL._SX679_.jpg",
+    "category": "Home & Kitchen",
+    "price": 169.99,
+    "quantity": 25
+  },
+  {
+    "id": 4,
+    "name": "L'Oréal Paris Revitalift Anti-Wrinkle + Firming Face & Neck Contour Cream",
+    "image": "https://m.media-amazon.com/images/I/61OpwnDOu5L._SX679_PIbundle-2,TopRight,0,0_SX679SY678SH20_.jpg",
+    "category": "Beauty & Personal Care",
+    "price": 19.99,
+    "quantity": 75
+  },
+  {
+    "id": 5,
+    "name": "Fitbit Charge 4 Fitness and Activity Tracker",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71smqRr0pmL._AC_SL1500_.jpg",
+    "category": "Sports & Outdoors",
+    "price": 129.95,
+    "quantity": 150
+  },
+  {
+    "id": 6,
+    "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+    "image": "https://m.media-amazon.com/images/I/41N4wmHtXML._SX300_SY300_QL70_FMwebp_.jpg",
+    "category": "Home & Kitchen",
+    "price": 79.95,
+    "quantity": 100
+  },
+  {
+    "id": 7,
+    "name": "Sony WH-1000XM4 Wireless Noise-Canceling Over-Ear Headphones",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg",
+    "category": "Electronics",
+    "price": 348.0,
+    "quantity": 30
+  },
+  {
+    "id": 8,
+    "name": "Calvin Klein Women's Modern Cotton Bralette",
+    "image": "https://m.media-amazon.com/images/I/51HElm+051L._AC_UL640_FMwebp_QL65_.jpg",
+    "category": "Clothing",
+    "price": 38.0,
+    "quantity": 60
+  },
+  {
+    "id": 9,
+    "name": "Cuisinart 14-Cup Programmable Coffeemaker",
+    "image": "https://m.media-amazon.com/images/I/41sWJhmDDfL._SX300_SY300_QL70_FMwebp_.jpg",
+    "category": "Home & Kitchen",
+    "price": 99.95,
+    "quantity": 45
+  },
+  {
+    "id": 10,
+    "name": "Maybelline New York SuperStay Matte Ink Liquid Lipstick",
+    "image": "https://m.media-amazon.com/images/I/31g45fXb+FL._SY300_SX300_.jpg",
+    "category": "Beauty & Personal Care",
+    "price": 7.99,
+    "quantity": 100
+  },
+  {
+    "id": 11,
+    "name": "Under Armour Men's Tech 2.0 Short Sleeve T-Shirt",
+    "image": "https://m.media-amazon.com/images/I/81Umy2cLtzL._SY879_.jpg",
+    "category": "Sports & Outdoors",
+    "price": 24.99,
+    "quantity": 80
+  },
+  {
+    "id": 12,
+    "name": "Breville BES870XL Barista Express Espresso Machine",
+    "image": "https://m.media-amazon.com/images/I/71ZNofTeBrL._SX679_.jpg",
+    "category": "Home & Kitchen",
+    "price": 599.95,
+    "quantity": 15
+  },
+  {
+    "id": 13,
+    "name": "Oral-B Pro 1000 Electric Toothbrush",
+    "image": "https://m.media-amazon.com/images/I/41ygOhdb7CL._SX300_SY300_QL70_FMwebp_.jpg",
+    "category": "Beauty & Personal Care",
+    "price": 44.97,
+    "quantity": 35
+  },
+  {
+    "id": 14,
+    "name": "Nike Men's Revolution 5 Running Shoe",
+    "image": "https://m.media-amazon.com/images/I/81H8QU59KxL._SX695_.jpg",
+    "category": "Sports & Outdoors",
+    "price": 65.0,
+    "quantity": 60
+  },
+  {
+    "id": 15,
+    "name": "Protronics SoundLiberty 53 Bluetooth Earbuds",
+    "image": "https://m.media-amazon.com/images/I/31XlCnKg-ES._SX300_SY300_QL70_FMwebp_.jpg",
+    "category": "Electronics",
+    "price": 49.99,
+    "quantity": 40
+  },
+  {
+    "id": 16,
+    "name": "Adidas Women's Cloudfoam Pure Running Shoe",
+    "image": "https://m.media-amazon.com/images/I/71COW7mrmrL._SY695_.jpg",
+    "category": "Sports & Outdoors",
+    "price": 52.76,
+    "quantity": 45
+  },
+  {
+    "id": 17,
+    "name": "Hamilton Beach 10-Cup Food Processor",
+    "image": "https://m.media-amazon.com/images/I/41-ihc9d7fL._SX300_SY300_QL70_FMwebp_.jpg",
+    "category": "Home & Kitchen",
+    "price": 54.99,
+    "quantity": 20
+  },
+  {
+    "id": 18,
+    "name": "Olay Regenerist Micro-Sculpting Cream Face Moisturizer",
+    "image": "https://m.media-amazon.com/images/I/71oRVH+c8pL._SX679_.jpg",
+    "category": "Beauty & Personal Care",
+    "price": 22.65,
+    "quantity": 55
+  },
+  {
+    "id": 19,
+    "name": "Garmin Forerunner 45S GPS Running Watch",
+    "image": "https://m.media-amazon.com/images/I/419g2G8t0oL._SX300_SY300_QL70_FMwebp_.jpg",
+    "category": "Sports & Outdoors",
+    "price": 199.99,
+    "quantity": 30
+  },
+  {
+    "id": 20,
+    "name": "AmazonBasics 8-Piece Non-Stick Cookware Set",
+    "image": "https://m.media-amazon.com/images/I/71mDTOYtDSL._SX679_.jpg",
+    "category": "Home & Kitchen",
+    "price": 41.49,
+    "quantity": 35
+  }
+]
