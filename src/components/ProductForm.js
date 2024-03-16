@@ -135,7 +135,7 @@ const ProductForm = (props) => {
         >
           Cancel
         </Button>
-        <Button type="submit">Confirm</Button>
+        <Button type="submit" className="text-white hover:bg-indigo-800">Confirm</Button>
       </div>
     </form>
   );

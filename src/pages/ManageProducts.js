@@ -25,7 +25,7 @@ const ManageProducts = () => {
               <input placeholder="Search product.." className="p-2 w-full" />
             </div>
             <div className="cta">
-              <Button onClick={showAddProduct}>Add Product</Button>
+              <Button onClick={showAddProduct} className="text-white">Add Product</Button>
             </div>
           </div>
           <ProductTable />
